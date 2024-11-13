@@ -5,7 +5,7 @@ This is where it all starts (the code invoked by "npm start").
 import { createCachedContent, generateContent } from './gemini-cached-content';
 import fs from 'fs';
 
-const PROJECT_ID = 'nimjay-playground-3';
+const PROJECT_ID = 'my-project-id';
 const LOCATION = 'us-central1';
 const MODEL_VERSION = 'gemini-1.5-flash-002';
 
