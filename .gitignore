@@ -1,0 +1,4 @@
+node_modules
+
+# JavaScript (compiled from TypeScript) is placed inside this folder:
+build/
